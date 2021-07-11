@@ -1,0 +1,9 @@
+Cara insatllna
+
+1.extract hela kabeh
+2.open project di netbeana 
+3.inport plugin : klik kanan di projectna, pilih properties, pilih libraris remove kabeh hela meh babari nu aya tulisan beremna,
+ pilih add JAR/folder , asupken ka folder nu di extract tadi ka folder plugin di import kabeh meh babari ctrl+klik kiri meh langsung ka blok ( mun make netbean versi 12+ mysql jdbc driverna import manual, mun absolute layoutna error teangan di google cara import absolute layout )
+
+4. import databasena di folder db aya RudianaTApbo.sql bisa meren ngimporna? mn hente ka googel atwa japri ka urang.
+5. tinggal runing akun jang login ka sistemna tingali weh di database
